@@ -1,0 +1,44 @@
+.a{
+    background-color: blue;
+    width: auto;
+    height: 75px;
+    border-bottom: solid;
+    margin-top: auto;
+}
+
+
+.b{
+    background-color: white;
+    margin-top: 170px;
+    margin-left: 600px
+    
+}
+
+.c{
+    background-color: grey;
+    height: 100px;
+    margin-top: 210px;
+    border-top: solid;
+}
+
+button {
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 15%;
+    }
+
+    input[type=text], input[type=password] {
+  width:25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.lo{
+    margin-left: 110px;
+}
